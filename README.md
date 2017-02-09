@@ -15,3 +15,7 @@ Nous admettons que les technologies utilisés ne sont pas adaptés à ce genre d
 Nous avons deux jours pour réaliser le produit. Nous considerons donc les fonctionnalités en premier.
 
 Si necessaire nous fournirons le cahier des charges via le lien sur le drive.
+
+##informations complementaires
+ajout base de données .sql
+numero de commit 1c306d77522f709ea8855e554e2eaf401124a380
